@@ -5,14 +5,9 @@
 <h3>👨‍🏫 About Me</h3>
 <p>Computer Science & Engineering student proficient in full-stack development using Python, Django, and React.js. Strong grasp of OOP and Data Structures. Proven problem-solver, having successfully delivered 75+ projects as a Level 2 Fiverr Seller with a 4.9/5 rating. Eager to deploy high-quality, data-driven software solutions.</p>
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayhamkayes&label=Profile%20views&color=0e75b6&style=flat" alt="sayhamkayes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayhamkayes&label=Profile%20views&color=0e75b6&style=flat" alt="sayhamkayes" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayhamkayes" alt="sayhamkayes" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sayhamkayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayhamkayes" height="30" width="40" /></a> &nbsp; <a href="https://fb.com/sayham.kayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayham.kayes" height="30" width="40" /></a> &nbsp; <a href="https://instagram.com/sayhamkayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayhamkayes" height="30" width="40" /></a>
-</p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayhamkayes" alt="sayhamkayes" /></a></p> -->
 
 <h3 align="left">👨🏽‍💻 Languages and Tools:</h3>
 <h5>Programming Languages</h5>
@@ -99,7 +94,11 @@
 <br />
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayhamkayes&" alt="sayhamkayes" /></p> -->
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/sayhamkayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayhamkayes" height="30" width="40" /></a> &nbsp; <a href="https://fb.com/sayham.kayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayham.kayes" height="30" width="40" /></a> &nbsp; <a href="https://instagram.com/sayhamkayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayhamkayes" height="30" width="40" /></a>
+</p>
+
 <hr>
-<p align: center>Thanks for going through my Portfolio. All rights reserved by Sayham Kayes @2020</p>
-<br />
+<p align="center">Thanks for going through my Portfolio. All rights reserved by Sayham Kayes @2020</p>
 <hr>
