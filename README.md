@@ -92,11 +92,11 @@
 </p>
 <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayhamkayes" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayhamkayes" style="max-width: 100%;"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayhamkayes" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayhamkayes" style="max-width: 100%;"></p>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayhamkayes&show_icons=true&locale=en" alt="sayhamkayes" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayhamkayes&" alt="sayhamkayes" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sayhamkayes&" alt="sayhamkayes" /></p>
 <br />
 
 <h3 align="center">Connect with me:</h3>
