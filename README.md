@@ -1,13 +1,13 @@
 <h1>Hi 👋, I'm Sayham Kayes</h1>
 <p>🎓 Computer Science Student | 💻 Aspiring Software Engineer | 🚀 Full-Stack Developer | Python | Django | JavaScript | React | 📊 Learning Data Science & ML | 💼 Level Two Seller at Fiverr</p>
-<p>🏠 Living: Dhaka, Bangladesh</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayhamkayes&label=Profile%20views&color=0e75b6&style=flat" alt="sayhamkayes" /></p>
 
-<img src="https://res.cloudinary.com/dhxmgl25b/image/upload/v1761127569/linkedin_cover_kst4bx.png" alt="sayhamkayes" />
+<img src="https://res.cloudinary.com/dhxmgl25b/image/upload/v1761127569/linkedin_cover_kst4bx.png" alt="sayhamkayes" alt="Profile banner"/>
 
 <h3>👨‍🏫 About Me</h3>
 <p>Computer Science & Engineering student proficient in full-stack development using Python, Django, and React.js. Strong grasp of OOP and Data Structures. Proven problem-solver, having successfully delivered 75+ projects as a Level 2 Fiverr Seller with a 4.9/5 rating. Eager to deploy high-quality, data-driven software solutions.</p>
+<p>🏠 Living: Dhaka, Bangladesh</p>
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayhamkayes&label=Profile%20views&color=0e75b6&style=flat" alt="sayhamkayes" /></p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayhamkayes" alt="sayhamkayes" /></a></p> -->
 
@@ -91,7 +91,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayhamkayes&show_icons=true&locale=en&layout=compact" alt="sayhamkayes" /></p>
-<br />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayhamkayes&show_icons=true&locale=en" alt="sayhamkayes" /></p>
 <br />
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayhamkayes&" alt="sayhamkayes" /></p> -->
