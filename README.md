@@ -91,13 +91,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>&nbsp;
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayhamkayes&show_icons=true&locale=en&layout=compact" alt="sayhamkayes" /></p> -->
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayhamkayes" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayhamkayes" style="max-width: 100%;"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayhamkayes" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayhamkayes" style="max-width: 100%;"></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayhamkayes&show_icons=true&locale=en" alt="sayhamkayes" /></p>
-<br />
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayhamkayes&" alt="sayhamkayes" /></p> -->
-<br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayhamkayes&show_icons=true&locale=en" alt="sayhamkayes" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayhamkayes&" alt="sayhamkayes" /></p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sayhamkayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayhamkayes" height="30" width="40" /></a> &nbsp; <a href="https://fb.com/sayham.kayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayham.kayes" height="30" width="40" /></a> &nbsp; <a href="https://instagram.com/sayhamkayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayhamkayes" height="30" width="40" /></a>
