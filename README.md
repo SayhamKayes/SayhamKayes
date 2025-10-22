@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Sayham Kayes</h1>
 <p>🎓 Computer Science Student | 💻 Aspiring Software Engineer | 🚀 Full-Stack Developer | Python | Django | JavaScript | React | 📊 Learning Data Science & ML | 💼 Level Two Seller at Fiverr</p>
+A passionate Full Stack Developer from Bangladesh, working on both Front-End and back-End development for 3+ years now. Feel free to reach out for any Freelance Projects.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayhamkayes&label=Profile%20views&color=0e75b6&style=flat" alt="sayhamkayes" /></p>
 
 <img src="https://res.cloudinary.com/dhxmgl25b/image/upload/v1761127569/linkedin_cover_kst4bx.png" alt="sayhamkayes" alt="Profile banner"/>
@@ -90,7 +91,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>&nbsp;
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayhamkayes&show_icons=true&locale=en&layout=compact" alt="sayhamkayes" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayhamkayes&show_icons=true&locale=en&layout=compact" alt="sayhamkayes" /></p> -->
+<p><img src="https://camo.githubusercontent.com/3fbc46b4b4aba018424caebd709787b0054826099a41caa7f728a8209a6040c6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e6973756c2d69736c616d" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayhamkayes" style="max-width: 100%;"></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayhamkayes&show_icons=true&locale=en" alt="sayhamkayes" /></p>
 <br />
