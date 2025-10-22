@@ -2,7 +2,7 @@
 <p>🎓 Computer Science Student | 💻 Aspiring Software Engineer | 🚀 Full-Stack Developer | Python | Django | JavaScript | React | 📊 Learning Data Science & ML | 💼 Level Two Seller at Fiverr</p>
 <p>🏠 Living: Dhaka, Bangladesh</p>
 
-<img src="[https://komarev.com/ghpvc/?username=sayhamkayes&label=Profile%20views&color=0e75b6&style=flat](https://media.licdn.com/dms/image/v2/D5616AQHp5IIl0e3nSA/profile-displaybackgroundimage-shrink_350_1400/B56Znua1nJJYAY-/0/1760641657243?e=1762992000&v=beta&t=nNJAyKi7sqZWHdFrkq-tZtL8-11bmSUnx0-bMPRIAN4)" alt="sayhamkayes" />
+<img src="https://komarev.com/ghpvc/?username=sayhamkayes&label=Profile%20views&color=0e75b6&style=flat](https://media.licdn.com/dms/image/v2/D5616AQHp5IIl0e3nSA/profile-displaybackgroundimage-shrink_350_1400/B56Znua1nJJYAY-/0/1760641657243?e=1762992000&v=beta&t=nNJAyKi7sqZWHdFrkq-tZtL8-11bmSUnx0-bMPRIAN4)" alt="sayhamkayes" />
 
 <h3>👨‍🏫 About Me</h3>
 <p>Computer Science & Engineering student proficient in full-stack development using Python, Django, and React.js. Strong grasp of OOP and Data Structures. Proven problem-solver, having successfully delivered 75+ projects as a Level 2 Fiverr Seller with a 4.9/5 rating. Eager to deploy high-quality, data-driven software solutions.</p>
@@ -95,7 +95,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayhamkayes&show_icons=true&locale=en" alt="sayhamkayes" /></p>
 <br />
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayhamkayes&" alt="sayhamkayes" /></p> -->
-
+<br />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sayhamkayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayhamkayes" height="30" width="40" /></a> &nbsp; <a href="https://fb.com/sayham.kayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayham.kayes" height="30" width="40" /></a> &nbsp; <a href="https://instagram.com/sayhamkayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayhamkayes" height="30" width="40" /></a>
