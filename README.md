@@ -93,13 +93,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>&nbsp;
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayhamkayes&show_icons=true&locale=en&layout=compact" alt="sayhamkayes" /></p>
+<p><img style="max-width: 100%;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayhamkayes&show_icons=true&locale=en&layout=compact" alt="sayhamkayes" /></p>
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayhamkayes&show_icons=true&locale=en" alt="sayhamkayes" /></p>
 <br />
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayhamkayes&" alt="sayhamkayes" /></p> -->
 
 <hr>
-Thanks for going through my Portfolio. All rights reserved by Sayham Kayes @2020
+<p align: center>Thanks for going through my Portfolio. All rights reserved by Sayham Kayes @2020</p>
 <br />
 <hr>
