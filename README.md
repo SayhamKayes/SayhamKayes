@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
 <h1>Hi 👋, I'm Sayham Kayes</h1>
 
 <img src="https://res.cloudinary.com/dhxmgl25b/image/upload/v1761127569/linkedin_cover_kst4bx.png" alt="sayhamkayes" alt="Profile banner"/>
@@ -91,7 +90,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>&nbsp;
 </p>
 
-<div class="row">
+<div class="row" style="display: flex;">
         <div class="col-4">
             <h5>Programming Languages</h5>
             <p>
