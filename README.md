@@ -101,11 +101,16 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayhamkayes" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayhamkayes" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayhamkayes&show_icons=true&locale=en" alt="sayhamkayes" /></p> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayhamkayes&" alt="sayhamkayes" />
+  <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayhamkayes" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayhamkayes" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayhamkayes&show_icons=true&locale=en" alt="sayhamkayes" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayhamkayes&" alt="sayhamkayes" /> -->
+
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=sayhamkayes&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayhamkayes&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=sayhamkayes&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
-<br />
+
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -120,5 +125,3 @@
 <hr>
 <p align="center">Thanks for going through my Portfolio. All rights reserved by Sayham Kayes @2020</p>
 <hr>
-
-
