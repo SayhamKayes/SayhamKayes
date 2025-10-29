@@ -123,5 +123,5 @@
 ###
 
 <hr>
-<p align="center">Thanks for going through my Portfolio. All rights reserved by Sayham Kayes @2020</p>
+<p align="center">Thanks for going through my Profile. All rights reserved by Sayham Kayes @2020</p>
 <hr>
