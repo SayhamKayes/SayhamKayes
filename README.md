@@ -6,7 +6,8 @@
 <h3>👨‍🏫 About Me</h3>
 <p>Full Stack Developer with 4+ years of remote experience and a strong foundation in Python (Django) and React.js. Delivering 75+ web projects for international clients, maintaining a 4.9/5 satisfaction rating. Proficient in building scalable web applications, deploying machine learning models, and collaborating in Agile environments. Eager to leverage full-cycle development skills to contribute to dynamic software engineering teams</p>
 <p>🏠 Living: Dhaka, Bangladesh</p>
-<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayhamkayes.github.io/portfolio/)
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayhamkayes" alt="sayhamkayes" /></a></p> -->
 
@@ -14,7 +15,7 @@
 
 ###
 
-<img align="right" width="600" src="https://res.cloudinary.com/dhxmgl25b/image/upload/v1761140018/skills_mvoius.gif"/>
+<img align="right" width="400" src="https://res.cloudinary.com/dhxmgl25b/image/upload/v1761140018/skills_mvoius.gif"/>
 
 ###
 
@@ -41,10 +42,13 @@
   ### Backend Development
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![REST API](https://img.shields.io/badge/REST%20API-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
   
   ### Database
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   
   ### DevOps
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
