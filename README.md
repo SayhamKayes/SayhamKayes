@@ -76,9 +76,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayhamkayes&" alt="sayhamkayes" /> -->
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=sayhamkayes&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayhamkayes&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=sayhamkayes&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sayhamkayes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayhamkayes&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 
