@@ -1,15 +1,11 @@
 <img src="https://res.cloudinary.com/dhxmgl25b/image/upload/v1761127569/linkedin_cover_kst4bx.png" alt="sayhamkayes" alt="Profile banner"/>
 <h1>Hi 👋, I'm Sayham Kayes</h1>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayhamkayes&label=Profile%20views&color=0e75b6&style=flat" alt="sayhamkayes" /></p> -->
-
 <h3>👨‍🏫 About Me</h3>
 <p>Full Stack Developer with 4+ years of remote experience and a strong foundation in Python (Django) and React.js. Delivering 75+ web projects for international clients, maintaining a 4.9/5 satisfaction rating. Proficient in building scalable web applications, deploying machine learning models, and collaborating in Agile environments. Eager to leverage full-cycle development skills to contribute to dynamic software engineering teams</p>
 <p>🏠 Living: Dhaka, Bangladesh</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayhamkayes.github.io/portfolio/)
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayhamkayes" alt="sayhamkayes" /></a></p> -->
 
 <h3 align="left">👨🏽‍💻 Languages and Tools:</h3>
 
@@ -71,17 +67,18 @@
 <br />
 
 <div align="center">
-  <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayhamkayes" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayhamkayes" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayhamkayes&show_icons=true&locale=en" alt="sayhamkayes" /></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayhamkayes&" alt="sayhamkayes" /> -->
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sayhamkayes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <p align="center">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayhamkayes&theme=tokyonight&hide_border=true" />
+  </p>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayhamkayes&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayhamkayes&theme=tokyo-night&hide_border=true&area=true" />
+  </p>
 </div>
 
 
