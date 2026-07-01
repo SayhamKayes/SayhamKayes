@@ -5,7 +5,9 @@
 <p>Full Stack Developer with 3+ years of freelance and remote experience and a strong foundation in Python (Django) and React.js. I've delivered 80+ web projects to 20+ international clients, earning the Level 2 Seller badge with a 4.9/5 satisfaction rating on Fiverr.</p>
 <p>🏠 Living: Dhaka, Bangladesh</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayham.vercel.app/)
+<a href="https://sayham.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-%234285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
 
 <h3 align="left">👨🏽‍💻 Tech Stacks:</h3>
 
@@ -91,6 +93,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayhamkayes&theme=tokyo-night&hide_border=true&area=true" />
   </p>
 </div>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sayhamkayes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center">
   <picture>
