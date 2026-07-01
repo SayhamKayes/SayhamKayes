@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm Sayham Kayes</h1>
 
 <h3>👨‍🏫 About Me</h3>
-<p>Full Stack Developer with 4+ years of remote experience and a strong foundation in Python (Django) and React.js. Delivering 75+ web projects for international clients, maintaining a 4.9/5 satisfaction rating. Proficient in building scalable web applications, deploying machine learning models, and collaborating in Agile environments. Eager to leverage full-cycle development skills to contribute to dynamic software engineering teams</p>
+<p>Full Stack Developer with 3+ years of freelance and remote experience and a strong foundation in Python (Django) and React.js. I've delivered 80+ web projects to 20+ international clients, earning the Level 2 Seller badge with a 4.9/5 satisfaction rating on Fiverr.</p>
 <p>🏠 Living: Dhaka, Bangladesh</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayhamkayes.github.io/portfolio/)
