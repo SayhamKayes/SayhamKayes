@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dhxmgl25b/image/upload/v1794708606/linkedin_cover_V3_scqvio.png" alt="sayhamkayes" alt="Profile banner"/>
+<img src="https://res.cloudinary.com/dhxmgl25b/image/upload/v1795530426/linkedin_cover_V4_wf0c7u.png" alt="sayhamkayes" alt="Profile banner"/>
 <h1>Hi 👋, I'm Sayham Kayes</h1>
 
 <h3>👨‍🏫 About Me</h3>
